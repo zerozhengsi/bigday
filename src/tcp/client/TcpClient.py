@@ -7,8 +7,8 @@ Created on 2016年6月23日
 
 import socket
 
-target_host = "127.0.0.1"
-target_port = 9000
+target_host = "www.baidu.com"
+target_port = 80
 
 client = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 

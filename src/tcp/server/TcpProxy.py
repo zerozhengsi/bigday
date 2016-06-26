@@ -7,7 +7,6 @@ Created on 2016年6月24日
 import sys
 import socket
 import threading
-from aifc import data
 
 #connection socket类型，从socket中获取数据
 def receive_from(connection):
